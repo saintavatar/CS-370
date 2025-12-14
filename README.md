@@ -8,14 +8,14 @@
 
 ---
 
-## 🛠️ Work Completed
+## Work Completed
 I began this project with starter code that provided the basic framework and environment setup. This included pre-defined functions, data structures, and scaffolding to help me focus on the core logic rather than boilerplate.  
 
 From there, I created my own code to implement the main functionality. I wrote custom algorithms, debugged runtime errors, refined logic for efficiency, and added new modules where necessary. My contributions involved both extending the given code and building original solutions to meet the project requirements.
 
 ---
 
-## 🌍 Connecting Learning to Computer Science
+## Connecting Learning to Computer Science
 Throughout this course, I learned how computer science is not just about writing code—it’s about solving problems systematically. Computer scientists design algorithms, build systems, and analyze data to improve processes across industries. Their work matters because it drives innovation, enables automation, and creates tools that shape how society functions.
 
 ---
